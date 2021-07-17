@@ -1,5 +1,5 @@
 # SoC2021-(Un)Clear
-The project is based on Image Super Resolution , namely the Enhanced Super Resolution Generative Adverserial Networks(ESRGAN) [paper](https://arxiv.org/abs/1609.04802). The project included the following topics :
+The project is based on Image Super Resolution , namely the Enhanced Super Resolution Generative Adverserial Networks(ESRGAN) [paper](https://arxiv.org/abs/1609.04802). The project started the first week of April and included the following topics :
 ## Image handling using OpenCV:
 * We covered the basics of image handling such as image resizing , rescaling , inter-conversion of images from different color systems, smoothening of images by eroding  and dilating and different types of blurring .
 
